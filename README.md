@@ -1,6 +1,7 @@
 # NoteNest 📝 – Secure Notes App
-
 NoteNest is a full-stack web application that allows users to create, read, update, and delete personal notes. It features a clean user interface built with React and a backend powered by Express and MongoDB.
+
+---
 
 ## 🚀 Features
 
@@ -10,6 +11,7 @@ NoteNest is a full-stack web application that allows users to create, read, upda
 - 🎯 Fully responsive UI built with React
 - 📦 Easily customizable and extensible for new features
 
+---
 
 ## 📸 Screenshots
 
@@ -19,6 +21,7 @@ NoteNest is a full-stack web application that allows users to create, read, upda
 ### 📝 Note-List
 ![Note-List](./screenshots/note-list.png)
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -34,6 +37,8 @@ NoteNest is a full-stack web application that allows users to create, read, upda
 - Mongoose
 - dotenv
 - CORS
+
+---
 
 ## 📁 Project Structure
 ```bash
@@ -57,6 +62,7 @@ note-nest/
 │ └── .env
 ```
 
+---
 
 ## ⚙️ Setup Instructions
 
@@ -90,6 +96,7 @@ npm start
 ### 4. Access the app
 Visit http://localhost:3000 in your browser.
 
+---
 
 ## 🧩 Future Enhancements
 
@@ -98,14 +105,17 @@ Visit http://localhost:3000 in your browser.
 - Tag-based note filtering
 - Dark mode toggle
 
+---
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
+---
 
 ## 📄 License
 This project is open-source and available under the MIT License.
 
+---
 
 ## 📞 Contact
 Made with 💙 by [Jeevitha](https://github.com/jeevitha28-g)
