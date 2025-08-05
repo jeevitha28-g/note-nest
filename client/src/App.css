@@ -186,3 +186,18 @@ textarea:focus {
   background-color: #d32f2f;
 }
 
+
+@media screen and (max-width: 600px) {
+  .update-button{
+    width: 45%;
+  }
+  .delete-button{
+    width: 45%;
+  }
+  .save-button{
+    width: 45%;
+  }
+  .cancel-button{
+    width: 45%;
+  }
+}
